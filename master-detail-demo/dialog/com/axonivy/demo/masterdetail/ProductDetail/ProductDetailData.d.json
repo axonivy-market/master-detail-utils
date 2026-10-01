@@ -1,0 +1,13 @@
+{
+  "$schema" : "https://json-schema.axonivy.com/14.0/project/data-class.json",
+  "simpleName" : "ProductDetailData",
+  "namespace" : "com.axonivy.demo.masterdetail.ProductDetail",
+  "fields" : [ {
+    "name" : "id",
+    "modifiers" : [ ]
+  }, {
+    "name" : "product",
+    "type" : "com.axonivy.demo.masterdetail.entity.Product",
+    "modifiers" : [ ]
+  } ]
+}
